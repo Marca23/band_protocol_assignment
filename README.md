@@ -25,8 +25,8 @@ In a one-dimensional world, Superman needs to protect chickens from a heavy rain
 The task is to design a versatile oracle system that retrieves and transmits real-time cryptocurrency prices from various sources, including Decentralized Exchanges, Centralized Exchanges, and Price Aggregator Services. The system should support multiple clients with diverse asset requirements, allowing them to seamlessly query and send cryptocurrency prices through this service.
 
 - **Architecture Diagram**: [problem_3/architecture_diagram.jpg](./problem_3/architecture_diagram.jpg)
-- **Documentation**: [Detailed explanation of the system design]
-- **Other Diagrams**: [Links to other relevant diagrams]
+- **Data Flow Diagram**: [problem_3/data_flow_diagram.pdf](./problem_3/data_flow_diagram.jpg)
+- **Documentation**: [problem_3/oracle_system_design.pdf](./problem_3/oracle_system_design.pdf)
 
 ## How to Run the Code
 
